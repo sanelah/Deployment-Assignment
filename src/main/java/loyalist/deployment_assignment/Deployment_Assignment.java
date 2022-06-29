@@ -6,7 +6,7 @@ public class Deployment_Assignment {
 package loyalist.project1;
 
 
-public class Project1 {
+public class Project12 {
 
     public static void main(String[] args) {
         System.out.println("This is our version 1");   
